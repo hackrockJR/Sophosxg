@@ -1,0 +1,17 @@
+1- Solicitar evaluacion> https://secure2.sophos.com/es-es/products/next-gen-firewall/free-trial.aspx
+2- llenar formulario y Usar correo empresarial. 
+3- Verificar correo enviado por parte de sophos. Ver Readme.txt 
+4- Ver los siguientes enlaces, para mayor entendimiento de la solucion> 
+
+https://www.sophos.com/es-es/support/products/xg-firewall.aspx
+https://www.sophos.com/es-es/support/documentation/sophos-xg-firewall.aspx
+https://vimeo.com/152186403
+https://secure2.sophos.com/es-es/mysophos/my-account.aspx #aqui encontraran el link de descarga de la virtual del XG.
+https://www.sophos.com/es-es/mysophos/my-account/network-protection/download-installers.aspx # Link de descarga. 
+
+5- Instalar en entorno virtual, en mi caso lo hare en vmware. 
+
+
+
+
+
